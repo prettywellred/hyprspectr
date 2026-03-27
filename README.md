@@ -2,7 +2,7 @@ hyprspectr
 ========
 
 <p align="center">
-  <img src="images/prettywellred.png" alt="prettywellred" width="600">
+  <img src="images/verywellred.png" alt="verywellred" width="600">
 </p>
 
 the goal of this project is to add the few pieces of functionality i have long lamented spectrwm not already having 
